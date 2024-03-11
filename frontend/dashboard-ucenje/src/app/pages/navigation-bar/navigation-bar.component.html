@@ -1,0 +1,9 @@
+<mat-toolbar>
+    <span>e-Učenje</span>
+    <div class="spacer"></div>
+    <button mat-button (click)="toggleLoginForm()">Login</button>
+</mat-toolbar>
+
+<div [@slideInOut]="loginFormVisible ? 'visible' : 'hidden'" class="login-form">
+    <app-login></app-login>
+</div>

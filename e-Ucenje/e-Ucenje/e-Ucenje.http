@@ -1,0 +1,6 @@
+@e_Ucenje_HostAddress = https://localhost:5050
+
+GET {{e_Ucenje_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

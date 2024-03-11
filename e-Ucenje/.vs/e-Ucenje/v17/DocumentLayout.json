@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|c:\\users\\gaming pc\\documents\\projekti\\e-ucenje\\e-ucenje\\e-ucenje\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|solutionrelative:e-ucenje\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|c:\\users\\gaming pc\\documents\\projekti\\e-ucenje\\e-ucenje\\e-ucenje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|solutionrelative:e-ucenje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|c:\\users\\gaming pc\\documents\\projekti\\e-ucenje\\e-ucenje\\e-ucenje\\e-ucenje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|solutionrelative:e-ucenje\\e-ucenje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|c:\\users\\gaming pc\\documents\\projekti\\e-ucenje\\e-ucenje\\e-ucenje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|solutionrelative:e-ucenje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|c:\\users\\gaming pc\\documents\\projekti\\e-ucenje\\e-ucenje\\e-ucenje\\e-ucenje.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3E2940B4-26B3-4FF1-AE8D-CEE5FF3CF5DF}|e-Ucenje\\e-Ucenje.csproj|solutionrelative:e-ucenje\\e-ucenje.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\Program.cs",
+              "RelativeDocumentMoniker": "e-Ucenje\\Program.cs",
+              "ToolTip": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\Program.cs",
+              "RelativeToolTip": "e-Ucenje\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:49:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\appsettings.json",
+              "RelativeDocumentMoniker": "e-Ucenje\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\appsettings.json",
+              "RelativeToolTip": "e-Ucenje\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T09:46:18.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "e-Ucenje.http",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\e-Ucenje.http",
+              "RelativeDocumentMoniker": "e-Ucenje\\e-Ucenje.http",
+              "ToolTip": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\e-Ucenje.http",
+              "RelativeToolTip": "e-Ucenje\\e-Ucenje.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-08T18:30:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "e-Ucenje.csproj",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\e-Ucenje.csproj",
+              "RelativeDocumentMoniker": "e-Ucenje\\e-Ucenje.csproj",
+              "ToolTip": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\e-Ucenje.csproj",
+              "RelativeToolTip": "e-Ucenje\\e-Ucenje.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T18:30:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "e-Ucenje\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Gaming PC\\Documents\\Projekti\\e-Ucenje\\e-Ucenje\\e-Ucenje\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "e-Ucenje\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:22:14.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
